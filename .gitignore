@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/api's/Mental.Rumination/.vs/Mental.Rumination/DesignTimeBuild
+/src/api's/Mental.Rumination/.vs/Mental.Rumination/v16
+/src/api's/Mental.Rumination/Mental.Rumination.Api/bin/Debug/netcoreapp3.1
+/src/api's/Mental.Rumination/Mental.Rumination.Api/obj
+/src/idsv4/Mental.Rumination.Idsv4/.vs/Mental.Rumination.Idsv4/DesignTimeBuild
+/src/idsv4/Mental.Rumination.Idsv4/.vs/Mental.Rumination.Idsv4/v16
+/src/idsv4/Mental.Rumination.Idsv4/Mental.Rumination.Idsv4/bin/Debug/netcoreapp3.1
+/src/idsv4/Mental.Rumination.Idsv4/Mental.Rumination.Idsv4/obj
+/src/models/.vs
+/src/models/Mental.Rumination.Models/.vs/Mental.Rumination.Models
+/src/models/Mental.Rumination.Models/Mental.Rumination.Models/bin/Debug/netstandard2.0
+/src/models/Mental.Rumination.Models/Mental.Rumination.Models/obj
