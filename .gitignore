@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -14,3 +14,12 @@
 /src/models/Mental.Rumination.Models/.vs/Mental.Rumination.Models
 /src/models/Mental.Rumination.Models/Mental.Rumination.Models/bin/Debug/netstandard2.0
 /src/models/Mental.Rumination.Models/Mental.Rumination.Models/obj
+/src/mobile/Mental.Rumination.Mobile/.vs/Mental.Rumination.Mobile/v16
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile.Android/bin/Debug
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile.Android/obj
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile.iOS/bin/iPhoneSimulator/Debug
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile.iOS/obj
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile.UWP/bin/x86/Debug
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile.UWP/obj
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/bin
+/src/mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/Mental.Rumination.Mobile/obj
